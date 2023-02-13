@@ -7,4 +7,4 @@ fix readme
 dots
 README added
 heat added
-iniе
+init
